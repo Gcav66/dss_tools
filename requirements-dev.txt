@@ -1,0 +1,4 @@
+ipython
+pandas
+requests
+youtube_transcript_api
