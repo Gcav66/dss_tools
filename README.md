@@ -7,4 +7,4 @@
 * Youtube videos have automated transcriptions
 
 # To Do
-* Everything
+
